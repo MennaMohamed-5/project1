@@ -109,6 +109,8 @@ body{
 .p-div{
     width: 250px;
     margin: auto;
+}
+.container-divs-p{
     color: rgb(165, 135, 135);
 }
 .container-divs{
@@ -263,6 +265,9 @@ body{
     line-height: 25px;
     float: left;
 }
+/* .sec4-p   p{
+    color: rgb(165, 135, 135);
+} */
 .sec4-divs::after{
     position: absolute;
     content: "";
